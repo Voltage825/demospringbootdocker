@@ -33,6 +33,9 @@ Then used Spotify's [Docker-maven-plugin](https://github.com/spotify/docker-mave
  docker exec -it [container_name] sh    # gives you bash access to your container
  ```
  More info at [Docker commands Page](https://docs.docker.com/engine/reference/commandline/)
+ 
+ Navigate to the index page using http://localhost:8080
+ 
 --------
 [logo_docker]: https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png "Docker wooololololo"
 Docker logo By dotCloud, Inc. [<a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ADocker_(container_engine)_logo.png">via Wikimedia Commons</a>
